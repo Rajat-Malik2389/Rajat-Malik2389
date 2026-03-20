@@ -65,16 +65,3 @@
 - 🔹 Family Members App  
 
 ---
-
-## 👀 Profile Views:
-![](https://visitcount.itsvg.in/api?id=Rajat-Malik2389&icon=0&color=0)
-
----
-
-## ⚠️ Important Notes:
-- Streak updates only when GitHub counts contributions
-- Make at least 1 commit daily
-- Enable "Include private contributions"
-- Wait 5–10 min for stats refresh
-
----
