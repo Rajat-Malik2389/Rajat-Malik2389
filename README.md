@@ -16,16 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Rajat-Malik2389&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=Rajat-Malik2389&theme=dark&hide_border=false&cache_seconds=1)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat-Malik2389&theme=dark&hide_border=false&layout=compact)
-
----
-
 ## 🌐 Connect with Me:
 
 - 📧 Email: rajatgamerzexpert@gmail.com  
